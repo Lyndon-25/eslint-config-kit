@@ -1,0 +1,22 @@
+{
+  "name": "@lyndon/eslint-config-kit",
+  "version": "1.0.0",
+  "description": "ESLint configuration kit with custom enum and interface naming rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eslint", "typescript", "enum", "interface", "naming", "custom rule"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0",
+    "@typescript-eslint/parser": ">=6.0.0",
+    "@typescript-eslint/eslint-plugin": ">=6.0.0"
+  }
+}
